@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
     EditText etRegId;
     GoogleCloudMessaging gcm;
     String regid;
-    String PROJECT_NUMBER = "509276078226";
+    String PROJECT_NUMBER = "353577856363";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

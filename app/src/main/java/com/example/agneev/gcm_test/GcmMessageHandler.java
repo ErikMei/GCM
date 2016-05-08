@@ -53,4 +53,8 @@ public class GcmMessageHandler extends IntentService{
             }
         });
     }
+
+    public void showTopNofif (){
+
+    }
 }
